@@ -1,0 +1,7 @@
+1. c++客户端    Resurrection
+2. c++插件
+	Resurrection-db-plugin
+3. java web服务器
+	java-resurrection
+4. 数据库
+	mysql

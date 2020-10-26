@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resurrection>
+    <plugins>
+        <plugin>
+            <name>db</name>
+            <file>resurrection-db-plugin.dll</file>
+            <version>snapshot1.0</version>
+        </plugin>
+    </plugins>
+</resurrection>

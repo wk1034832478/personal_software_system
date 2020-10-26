@@ -1,0 +1,13 @@
+release/accountwidget.o
+release/applicationcontextmanager.o
+release/main.o
+release/maindialog.o
+release/mainwindow.o
+release/pluginloader.o
+release/windowmanage.o
+release/moc_accountwidget.o
+release/moc_applicationcontextmanager.o
+release/moc_maindialog.o
+release/moc_mainwindow.o
+release/moc_pluginloader.o
+release/moc_windowmanage.o

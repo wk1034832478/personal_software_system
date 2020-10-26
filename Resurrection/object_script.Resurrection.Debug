@@ -1,0 +1,13 @@
+debug/accountwidget.o
+debug/applicationcontextmanager.o
+debug/main.o
+debug/maindialog.o
+debug/mainwindow.o
+debug/pluginloader.o
+debug/windowmanage.o
+debug/moc_accountwidget.o
+debug/moc_applicationcontextmanager.o
+debug/moc_maindialog.o
+debug/moc_mainwindow.o
+debug/moc_pluginloader.o
+debug/moc_windowmanage.o
